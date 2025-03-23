@@ -1,0 +1,14 @@
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\bin\Debug\WorkSpace.exe.config
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\bin\Debug\WorkSpace.exe
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\bin\Debug\WorkSpace.pdb
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\obj\Debug\WorkSpace.csproj.AssemblyReference.cache
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\obj\Debug\WorkSpace.Form1.resources
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\obj\Debug\WorkSpace.Properties.Resources.resources
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\obj\Debug\WorkSpace.csproj.GenerateResource.cache
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\obj\Debug\WorkSpace.csproj.CoreCompileInputs.cache
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\obj\Debug\WorkSpace.exe
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\obj\Debug\WorkSpace.pdb
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\bin\Debug\DotNetZip.dll
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\bin\Debug\DotNetZip.pdb
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\bin\Debug\DotNetZip.xml
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\obj\Debug\WorkSpace.csproj.CopyComplete

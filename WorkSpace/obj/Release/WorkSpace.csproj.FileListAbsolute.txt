@@ -1,0 +1,9 @@
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\bin\Release\WorkSpace.exe.config
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\bin\Release\WorkSpace.exe
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\bin\Release\WorkSpace.pdb
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\obj\Release\WorkSpace.Form1.resources
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\obj\Release\WorkSpace.Properties.Resources.resources
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\obj\Release\WorkSpace.csproj.GenerateResource.cache
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\obj\Release\WorkSpace.csproj.CoreCompileInputs.cache
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\obj\Release\WorkSpace.exe
+C:\Users\abcdef\source\repos\WorkSpace\WorkSpace\obj\Release\WorkSpace.pdb
