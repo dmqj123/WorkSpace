@@ -28,6 +28,11 @@ namespace WorkSpace
         private void on_window_resize(object sender, EventArgs e)
         {
             //居中控件
+            UIAdaptation();
+        }
+
+        private void UIAdaptation()
+        {
             label1.Location = new Point((this.Width - label1.Width) / 2, (this.Height - label1.Height) / 2 - 180);
             textBox1.Location = new Point((this.Width - label1.Width) / 2 - 80, (this.Height - label1.Height) / 2);
             button1.Location = new Point((this.Width - label1.Width) / 2 + 563, (this.Height - label1.Height) / 2);
@@ -96,11 +101,16 @@ namespace WorkSpace
                 {
                     zip.Password = password;
                 }
+                string tempPath = Environment.GetEnvironmentVariable("TEMP")+"\\workspaces\\"+GetTime();
                 foreach (ZipEntry entry in zip)
                 {
-                    string tempPath = Environment.GetEnvironmentVariable("TEMP")+"\\workspaces\\"+GetTime();
-                    entry.Extract(tempPath, ExtractExistingFileAction.OverwriteSilently);
-                    System.Diagnostics.Process.Start(tempPath);
+                    try {
+                        entry.Extract(tempPath, ExtractExistingFileAction.OverwriteSilently);
+                        Process.Start(tempPath);
+                    } catch (Ionic.Zip.BadPasswordException) {
+                        MessageBox.Show("密码错误!");
+                        return;
+                    }
                 }
             }
         }
